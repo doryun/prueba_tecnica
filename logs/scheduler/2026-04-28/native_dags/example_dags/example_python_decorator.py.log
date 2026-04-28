@@ -826,3 +826,27 @@
 [2026-04-28T20:41:18.285+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:41:18.285+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2026-04-28T20:41:18.288+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:41:18.288+0200] {dag.py:3954} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
 [2026-04-28T20:41:18.293+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py took 0.050 seconds
+[2026-04-28T20:42:42.221+0200] {processor.py:161} INFO - Started process (PID=56616) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2026-04-28T20:42:42.221+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2026-04-28T20:42:42.222+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:42.222+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2026-04-28T20:42:42.234+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:42.234+0200] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2026-04-28T20:42:42.235+0200] {processor.py:840} INFO - DAG(s) 'example_python_decorator' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2026-04-28T20:42:42.262+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:42.262+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:42:42.265+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:42.265+0200] {dag.py:3954} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2026-04-28T20:42:42.270+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py took 0.050 seconds
+[2026-04-28T20:44:03.383+0200] {processor.py:161} INFO - Started process (PID=56820) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2026-04-28T20:44:03.384+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2026-04-28T20:44:03.384+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:03.384+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2026-04-28T20:44:03.396+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:03.396+0200] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2026-04-28T20:44:03.397+0200] {processor.py:840} INFO - DAG(s) 'example_python_decorator' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2026-04-28T20:44:03.428+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:03.428+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:44:03.432+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:03.432+0200] {dag.py:3954} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2026-04-28T20:44:03.440+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py took 0.057 seconds
+[2026-04-28T20:45:25.673+0200] {processor.py:161} INFO - Started process (PID=56939) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2026-04-28T20:45:25.674+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2026-04-28T20:45:25.674+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:25.674+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2026-04-28T20:45:25.686+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:25.686+0200] {example_python_decorator.py:80} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2026-04-28T20:45:25.686+0200] {processor.py:840} INFO - DAG(s) 'example_python_decorator' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py
+[2026-04-28T20:45:25.713+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:25.713+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:45:25.716+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:25.716+0200] {dag.py:3954} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2026-04-28T20:45:25.720+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_decorator.py took 0.048 seconds

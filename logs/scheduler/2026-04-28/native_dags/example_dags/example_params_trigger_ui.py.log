@@ -723,3 +723,24 @@
 [2026-04-28T20:41:22.273+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:41:22.272+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2026-04-28T20:41:22.275+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:41:22.275+0200] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
 [2026-04-28T20:41:22.280+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.055 seconds
+[2026-04-28T20:42:46.146+0200] {processor.py:161} INFO - Started process (PID=56628) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2026-04-28T20:42:46.147+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2026-04-28T20:42:46.147+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:46.147+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2026-04-28T20:42:46.160+0200] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2026-04-28T20:42:46.193+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:46.192+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:42:46.195+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:46.195+0200] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2026-04-28T20:42:46.206+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.060 seconds
+[2026-04-28T20:44:07.193+0200] {processor.py:161} INFO - Started process (PID=56823) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2026-04-28T20:44:07.193+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2026-04-28T20:44:07.194+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:07.194+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2026-04-28T20:44:07.211+0200] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2026-04-28T20:44:07.244+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:07.244+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:44:07.246+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:07.246+0200] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2026-04-28T20:44:07.252+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.060 seconds
+[2026-04-28T20:45:30.438+0200] {processor.py:161} INFO - Started process (PID=56946) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2026-04-28T20:45:30.439+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2026-04-28T20:45:30.439+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:30.439+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2026-04-28T20:45:30.452+0200] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2026-04-28T20:45:30.484+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:30.484+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:45:30.487+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:30.487+0200] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2026-04-28T20:45:30.492+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.054 seconds

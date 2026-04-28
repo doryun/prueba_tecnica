@@ -1332,3 +1332,38 @@
 [2026-04-28T20:42:18.916+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:18.916+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2026-04-28T20:42:18.919+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:18.919+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
 [2026-04-28T20:42:18.923+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.048 seconds
+[2026-04-28T20:43:00.387+0200] {processor.py:161} INFO - Started process (PID=56658) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:43:00.388+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2026-04-28T20:43:00.388+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:43:00.388+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:43:00.402+0200] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:43:00.431+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:43:00.430+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:43:00.433+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:43:00.433+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2026-04-28T20:43:00.440+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.053 seconds
+[2026-04-28T20:43:41.049+0200] {processor.py:161} INFO - Started process (PID=56788) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:43:41.051+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2026-04-28T20:43:41.051+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:43:41.051+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:43:41.065+0200] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:43:41.096+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:43:41.096+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:43:41.099+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:43:41.099+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2026-04-28T20:43:41.104+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.057 seconds
+[2026-04-28T20:44:20.874+0200] {processor.py:161} INFO - Started process (PID=56837) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:44:20.875+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2026-04-28T20:44:20.876+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:20.875+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:44:20.888+0200] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:44:20.914+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:20.914+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:44:20.916+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:20.916+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2026-04-28T20:44:20.921+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.048 seconds
+[2026-04-28T20:45:02.613+0200] {processor.py:161} INFO - Started process (PID=56910) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:45:02.614+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2026-04-28T20:45:02.614+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:02.614+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:45:02.625+0200] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:45:02.651+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:02.651+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:45:02.653+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:02.653+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2026-04-28T20:45:02.658+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.046 seconds
+[2026-04-28T20:45:44.967+0200] {processor.py:161} INFO - Started process (PID=56960) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:45:44.968+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2026-04-28T20:45:44.968+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:44.968+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:45:44.980+0200] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2026-04-28T20:45:45.006+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:45.006+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:45:45.009+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:45.008+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2026-04-28T20:45:45.013+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.047 seconds

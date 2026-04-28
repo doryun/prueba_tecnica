@@ -1129,3 +1129,31 @@
 [2026-04-28T20:42:20.514+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:20.514+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2026-04-28T20:42:20.516+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:20.516+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
 [2026-04-28T20:42:20.522+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.064 seconds
+[2026-04-28T20:43:02.023+0200] {processor.py:161} INFO - Started process (PID=56661) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2026-04-28T20:43:02.024+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2026-04-28T20:43:02.024+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:43:02.024+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2026-04-28T20:43:02.064+0200] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2026-04-28T20:43:02.091+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:43:02.091+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:43:02.094+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:43:02.094+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2026-04-28T20:43:02.100+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.077 seconds
+[2026-04-28T20:44:22.042+0200] {processor.py:161} INFO - Started process (PID=56838) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2026-04-28T20:44:22.043+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2026-04-28T20:44:22.043+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:22.043+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2026-04-28T20:44:22.070+0200] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2026-04-28T20:44:22.096+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:22.096+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:44:22.098+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:22.098+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2026-04-28T20:44:22.103+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2026-04-28T20:45:04.297+0200] {processor.py:161} INFO - Started process (PID=56911) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2026-04-28T20:45:04.298+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2026-04-28T20:45:04.298+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:04.298+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2026-04-28T20:45:04.362+0200] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2026-04-28T20:45:04.441+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:04.441+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:45:04.445+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:04.445+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2026-04-28T20:45:04.452+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.157 seconds
+[2026-04-28T20:45:46.545+0200] {processor.py:161} INFO - Started process (PID=56964) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2026-04-28T20:45:46.546+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2026-04-28T20:45:46.546+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:46.546+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2026-04-28T20:45:46.573+0200] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2026-04-28T20:45:46.600+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:46.600+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:45:46.603+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:46.603+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2026-04-28T20:45:46.608+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.064 seconds

@@ -826,3 +826,27 @@
 [2026-04-28T20:41:16.736+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:41:16.736+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2026-04-28T20:41:16.739+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:41:16.739+0200] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
 [2026-04-28T20:41:16.744+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.045 seconds
+[2026-04-28T20:42:40.598+0200] {processor.py:161} INFO - Started process (PID=56613) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2026-04-28T20:42:40.598+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2026-04-28T20:42:40.598+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:40.598+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2026-04-28T20:42:40.606+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:40.606+0200] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2026-04-28T20:42:40.607+0200] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2026-04-28T20:42:40.633+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:40.633+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:42:40.636+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:42:40.636+0200] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2026-04-28T20:42:40.640+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.043 seconds
+[2026-04-28T20:44:01.818+0200] {processor.py:161} INFO - Started process (PID=56819) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2026-04-28T20:44:01.819+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2026-04-28T20:44:01.819+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:01.819+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2026-04-28T20:44:01.826+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:01.826+0200] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2026-04-28T20:44:01.827+0200] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2026-04-28T20:44:01.853+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:01.853+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:44:01.856+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:44:01.856+0200] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2026-04-28T20:44:01.861+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.044 seconds
+[2026-04-28T20:45:24.122+0200] {processor.py:161} INFO - Started process (PID=56938) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2026-04-28T20:45:24.123+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2026-04-28T20:45:24.123+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:24.123+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2026-04-28T20:45:24.131+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:24.131+0200] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2026-04-28T20:45:24.132+0200] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2026-04-28T20:45:24.158+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:24.158+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-28T20:45:24.161+0200] {logging_mixin.py:188} INFO - [2026-04-28T20:45:24.161+0200] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2026-04-28T20:45:24.166+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.045 seconds

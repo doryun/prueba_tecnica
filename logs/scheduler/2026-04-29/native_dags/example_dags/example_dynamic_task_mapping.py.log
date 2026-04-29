@@ -957,3 +957,10 @@
 [2026-04-29T12:37:55.343+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:37:55.343+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2026-04-29T12:37:55.348+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:37:55.348+0200] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
 [2026-04-29T12:37:55.352+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.048 seconds
+[2026-04-29T12:39:16.727+0200] {processor.py:161} INFO - Started process (PID=86128) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2026-04-29T12:39:16.727+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2026-04-29T12:39:16.728+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:39:16.728+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2026-04-29T12:39:16.740+0200] {processor.py:840} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2026-04-29T12:39:16.766+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:39:16.766+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:39:16.771+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:39:16.770+0200] {dag.py:3954} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04 00:00:00+00:00, run_after=2022-03-05 00:00:00+00:00
+[2026-04-29T12:39:16.775+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.049 seconds

@@ -943,3 +943,10 @@
 [2026-04-29T12:38:41.084+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:38:41.084+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2026-04-29T12:38:41.090+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:38:41.090+0200] {dag.py:3954} INFO - Setting next_dagrun for example_branch_dop_operator_v3 to 2026-04-29 10:37:00+00:00, run_after=2026-04-29 10:38:00+00:00
 [2026-04-29T12:38:41.095+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py took 0.050 seconds
+[2026-04-29T12:40:03.808+0200] {processor.py:161} INFO - Started process (PID=86205) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2026-04-29T12:40:03.809+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py for tasks to queue
+[2026-04-29T12:40:03.809+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:40:03.809+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2026-04-29T12:40:03.821+0200] {processor.py:840} INFO - DAG(s) 'example_branch_dop_operator_v3' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2026-04-29T12:40:03.847+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:40:03.847+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:40:03.852+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:40:03.852+0200] {dag.py:3954} INFO - Setting next_dagrun for example_branch_dop_operator_v3 to 2026-04-29 10:39:00+00:00, run_after=2026-04-29 10:40:00+00:00
+[2026-04-29T12:40:03.857+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py took 0.049 seconds

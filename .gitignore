@@ -1,3 +1,4 @@
 gcp-key.json
 venv
 airflow.db
+logs

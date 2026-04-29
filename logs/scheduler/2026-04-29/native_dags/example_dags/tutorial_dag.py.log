@@ -1258,3 +1258,507 @@
 [2026-04-29T12:39:37.389+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:39:37.389+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2026-04-29T12:39:37.392+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:39:37.392+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
 [2026-04-29T12:39:37.396+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.043 seconds
+[2026-04-29T12:40:58.319+0200] {processor.py:161} INFO - Started process (PID=86340) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:40:58.320+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:40:58.321+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:40:58.321+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:40:58.329+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:40:58.355+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:40:58.355+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:40:58.357+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:40:58.357+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:40:58.362+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T12:42:20.894+0200] {processor.py:161} INFO - Started process (PID=86445) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:42:20.895+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:42:20.895+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:42:20.895+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:42:20.903+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:42:20.928+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:42:20.928+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:42:20.931+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:42:20.931+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:42:20.936+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.043 seconds
+[2026-04-29T12:43:41.003+0200] {processor.py:161} INFO - Started process (PID=86533) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:43:41.003+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:43:41.003+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:43:41.003+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:43:41.011+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:43:41.036+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:43:41.036+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:43:41.039+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:43:41.039+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:43:41.044+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.042 seconds
+[2026-04-29T12:45:02.558+0200] {processor.py:161} INFO - Started process (PID=86624) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:45:02.559+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:45:02.559+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:45:02.559+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:45:02.568+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:45:02.595+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:45:02.594+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:45:02.598+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:45:02.598+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:45:02.603+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T12:45:44.887+0200] {processor.py:161} INFO - Started process (PID=86660) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:45:44.887+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:45:44.887+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:45:44.887+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:45:44.896+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:45:44.922+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:45:44.922+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:45:44.925+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:45:44.925+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:45:44.930+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T12:47:06.227+0200] {processor.py:161} INFO - Started process (PID=86748) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:47:06.228+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:47:06.228+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:47:06.228+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:47:06.236+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:47:06.263+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:47:06.263+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:47:06.266+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:47:06.266+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:47:06.271+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T12:47:48.449+0200] {processor.py:161} INFO - Started process (PID=86788) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:47:48.450+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:47:48.450+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:47:48.450+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:47:48.458+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:47:48.485+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:47:48.485+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:47:48.488+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:47:48.488+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:47:48.493+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T12:48:33.276+0200] {processor.py:161} INFO - Started process (PID=86859) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:48:33.276+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:48:33.276+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:48:33.276+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:48:33.286+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:48:33.316+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:48:33.316+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:48:33.319+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:48:33.319+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:48:33.324+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2026-04-29T12:49:19.178+0200] {processor.py:161} INFO - Started process (PID=86920) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:49:19.178+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:49:19.179+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:49:19.178+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:49:19.187+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:49:19.212+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:49:19.212+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:49:19.215+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:49:19.215+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:49:19.220+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.043 seconds
+[2026-04-29T12:50:01.799+0200] {processor.py:161} INFO - Started process (PID=86975) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:50:01.800+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:50:01.800+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:50:01.800+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:50:01.808+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:50:01.835+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:50:01.834+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:50:01.838+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:50:01.837+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:50:01.843+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T12:51:26.302+0200] {processor.py:161} INFO - Started process (PID=87077) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:51:26.303+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:51:26.303+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:51:26.303+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:51:26.312+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:51:26.339+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:51:26.338+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:51:26.342+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:51:26.341+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:51:26.347+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T12:52:09.514+0200] {processor.py:161} INFO - Started process (PID=87125) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:52:09.515+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:52:09.515+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:52:09.515+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:52:09.524+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:52:09.555+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:52:09.555+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:52:09.558+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:52:09.558+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:52:09.563+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2026-04-29T12:52:54.361+0200] {processor.py:161} INFO - Started process (PID=87177) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:52:54.361+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:52:54.361+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:52:54.361+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:52:54.370+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:52:54.396+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:52:54.396+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:52:54.399+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:52:54.399+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:52:54.405+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T12:54:18.761+0200] {processor.py:161} INFO - Started process (PID=87273) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:54:18.762+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:54:18.763+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:54:18.763+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:54:18.771+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:54:18.797+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:54:18.797+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:54:18.800+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:54:18.800+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:54:18.804+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T12:55:02.301+0200] {processor.py:161} INFO - Started process (PID=87329) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:55:02.302+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:55:02.302+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:55:02.302+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:55:02.310+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:55:02.336+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:55:02.336+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:55:02.339+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:55:02.339+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:55:02.345+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T12:55:45.944+0200] {processor.py:161} INFO - Started process (PID=87406) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:55:45.944+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:55:45.945+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:55:45.945+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:55:45.954+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:55:45.982+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:55:45.982+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:55:45.986+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:55:45.986+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:55:45.991+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2026-04-29T12:57:09.457+0200] {processor.py:161} INFO - Started process (PID=87518) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:57:09.458+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:57:09.458+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:57:09.458+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:57:09.466+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:57:09.492+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:57:09.492+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:57:09.495+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:57:09.495+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:57:09.499+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.043 seconds
+[2026-04-29T12:57:54.027+0200] {processor.py:161} INFO - Started process (PID=87564) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:57:54.027+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:57:54.028+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:57:54.028+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:57:54.036+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:57:54.063+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:57:54.063+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:57:54.066+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:57:54.066+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:57:54.071+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T12:59:17.981+0200] {processor.py:161} INFO - Started process (PID=87658) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:59:17.981+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T12:59:17.981+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:59:17.981+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:59:17.990+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T12:59:18.019+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:59:18.018+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T12:59:18.022+0200] {logging_mixin.py:188} INFO - [2026-04-29T12:59:18.022+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T12:59:18.027+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2026-04-29T13:00:41.125+0200] {processor.py:161} INFO - Started process (PID=87751) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:00:41.127+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:00:41.127+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:00:41.127+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:00:41.135+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:00:41.162+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:00:41.162+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:00:41.165+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:00:41.165+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:00:41.169+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T13:01:24.272+0200] {processor.py:161} INFO - Started process (PID=87811) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:01:24.273+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:01:24.273+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:01:24.273+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:01:24.283+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:01:24.308+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:01:24.308+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:01:24.311+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:01:24.311+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:01:24.316+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T13:02:46.287+0200] {processor.py:161} INFO - Started process (PID=87924) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:02:46.287+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:02:46.288+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:02:46.288+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:02:46.296+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:02:46.322+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:02:46.322+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:02:46.325+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:02:46.325+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:02:46.330+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:04:12.347+0200] {processor.py:161} INFO - Started process (PID=88050) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:04:12.347+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:04:12.348+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:04:12.348+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:04:12.357+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:04:12.383+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:04:12.383+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:04:12.386+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:04:12.386+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:04:12.391+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T13:05:38.595+0200] {processor.py:161} INFO - Started process (PID=88169) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:05:38.595+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:05:38.595+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:05:38.595+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:05:38.603+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:05:38.630+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:05:38.630+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:05:38.633+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:05:38.633+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:05:38.638+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:07:02.066+0200] {processor.py:161} INFO - Started process (PID=88259) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:07:02.066+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:07:02.066+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:07:02.066+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:07:02.074+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:07:02.099+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:07:02.099+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:07:02.102+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:07:02.102+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:07:02.107+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.042 seconds
+[2026-04-29T13:07:44.174+0200] {processor.py:161} INFO - Started process (PID=88317) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:07:44.175+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:07:44.175+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:07:44.175+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:07:44.183+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:07:44.209+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:07:44.209+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:07:44.212+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:07:44.212+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:07:44.217+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:08:30.260+0200] {processor.py:161} INFO - Started process (PID=88373) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:08:30.260+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:08:30.260+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:08:30.260+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:08:30.269+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:08:30.294+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:08:30.294+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:08:30.297+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:08:30.297+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:08:30.302+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.043 seconds
+[2026-04-29T13:09:13.734+0200] {processor.py:161} INFO - Started process (PID=88419) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:09:13.735+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:09:13.735+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:09:13.735+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:09:13.744+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:09:13.769+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:09:13.769+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:09:13.772+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:09:13.772+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:09:13.777+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:10:38.613+0200] {processor.py:161} INFO - Started process (PID=88519) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:10:38.614+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:10:38.614+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:10:38.614+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:10:38.622+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:10:38.648+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:10:38.648+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:10:38.651+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:10:38.651+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:10:38.656+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.043 seconds
+[2026-04-29T13:12:03.077+0200] {processor.py:161} INFO - Started process (PID=88611) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:12:03.078+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:12:03.078+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:12:03.078+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:12:03.086+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:12:03.119+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:12:03.119+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:12:03.124+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:12:03.123+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:12:03.139+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.063 seconds
+[2026-04-29T13:12:47.211+0200] {processor.py:161} INFO - Started process (PID=88662) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:12:47.212+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:12:47.213+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:12:47.213+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:12:47.221+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:12:47.248+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:12:47.248+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:12:47.251+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:12:47.251+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:12:47.256+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.046 seconds
+[2026-04-29T13:13:32.037+0200] {processor.py:161} INFO - Started process (PID=88722) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:13:32.038+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:13:32.038+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:13:32.038+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:13:32.046+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:13:32.072+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:13:32.072+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:13:32.075+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:13:32.075+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:13:32.080+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:14:56.916+0200] {processor.py:161} INFO - Started process (PID=88826) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:14:56.917+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:14:56.918+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:14:56.918+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:14:56.926+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:14:56.954+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:14:56.953+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:14:56.957+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:14:56.957+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:14:56.962+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2026-04-29T13:16:18.950+0200] {processor.py:161} INFO - Started process (PID=88908) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:16:18.951+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:16:18.951+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:16:18.951+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:16:18.959+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:16:18.985+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:16:18.985+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:16:18.988+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:16:18.988+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:16:18.993+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:17:43.968+0200] {processor.py:161} INFO - Started process (PID=89021) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:17:43.968+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:17:43.969+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:17:43.969+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:17:43.977+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:17:44.004+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:17:44.004+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:17:44.007+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:17:44.007+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:17:44.012+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T13:19:06.177+0200] {processor.py:161} INFO - Started process (PID=89111) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:19:06.178+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:19:06.178+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:19:06.178+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:19:06.186+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:19:06.213+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:19:06.212+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:19:06.216+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:19:06.215+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:19:06.220+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:19:49.530+0200] {processor.py:161} INFO - Started process (PID=89154) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:19:49.531+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:19:49.531+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:19:49.531+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:19:49.539+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:19:49.565+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:19:49.565+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:19:49.568+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:19:49.568+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:19:49.573+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.043 seconds
+[2026-04-29T13:20:34.150+0200] {processor.py:161} INFO - Started process (PID=89191) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:20:34.150+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:20:34.150+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:20:34.150+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:20:34.158+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:20:34.185+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:20:34.185+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:20:34.188+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:20:34.188+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:20:34.193+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:21:57.855+0200] {processor.py:161} INFO - Started process (PID=89288) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:21:57.856+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:21:57.856+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:21:57.856+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:21:57.864+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:21:57.890+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:21:57.890+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:21:57.893+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:21:57.893+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:21:57.898+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:22:40.055+0200] {processor.py:161} INFO - Started process (PID=89328) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:22:40.056+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:22:40.056+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:22:40.056+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:22:40.064+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:22:40.090+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:22:40.090+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:22:40.093+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:22:40.093+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:22:40.098+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:23:24.646+0200] {processor.py:161} INFO - Started process (PID=89367) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:23:24.646+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:23:24.646+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:23:24.646+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:23:24.654+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:23:24.683+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:23:24.683+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:23:24.687+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:23:24.687+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:23:24.692+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2026-04-29T13:24:49.743+0200] {processor.py:161} INFO - Started process (PID=89484) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:24:49.744+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:24:49.744+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:24:49.744+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:24:49.753+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:24:49.779+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:24:49.779+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:24:49.782+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:24:49.782+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:24:49.787+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:26:12.465+0200] {processor.py:161} INFO - Started process (PID=89566) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:26:12.467+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:26:12.467+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:26:12.467+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:26:12.475+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:26:12.502+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:26:12.502+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:26:12.505+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:26:12.505+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:26:12.509+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T13:26:54.794+0200] {processor.py:161} INFO - Started process (PID=89619) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:26:54.795+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:26:54.795+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:26:54.795+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:26:54.803+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:26:54.828+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:26:54.828+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:26:54.831+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:26:54.831+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:26:54.836+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.042 seconds
+[2026-04-29T13:28:20.239+0200] {processor.py:161} INFO - Started process (PID=89722) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:28:20.240+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:28:20.240+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:28:20.240+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:28:20.248+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:28:20.273+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:28:20.273+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:28:20.276+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:28:20.276+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:28:20.281+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.043 seconds
+[2026-04-29T13:29:42.763+0200] {processor.py:161} INFO - Started process (PID=89827) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:29:42.764+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:29:42.764+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:29:42.764+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:29:42.772+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:29:42.798+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:29:42.798+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:29:42.801+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:29:42.801+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:29:42.806+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:31:05.649+0200] {processor.py:161} INFO - Started process (PID=89926) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:31:05.650+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:31:05.651+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:31:05.650+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:31:05.659+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:31:05.685+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:31:05.684+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:31:05.687+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:31:05.687+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:31:05.692+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:31:49.956+0200] {processor.py:161} INFO - Started process (PID=89970) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:31:49.957+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:31:49.957+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:31:49.957+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:31:49.965+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:31:49.992+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:31:49.992+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:31:49.996+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:31:49.996+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:31:50.000+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T13:33:16.607+0200] {processor.py:161} INFO - Started process (PID=90081) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:33:16.607+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:33:16.607+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:33:16.607+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:33:16.616+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:33:16.642+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:33:16.642+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:33:16.645+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:33:16.645+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:33:16.650+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T13:34:43.806+0200] {processor.py:161} INFO - Started process (PID=90181) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:34:43.807+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:34:43.807+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:34:43.807+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:34:43.816+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:34:43.842+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:34:43.842+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:34:43.845+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:34:43.845+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:34:43.850+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.046 seconds
+[2026-04-29T13:36:07.222+0200] {processor.py:161} INFO - Started process (PID=90270) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:36:07.223+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:36:07.223+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:36:07.223+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:36:07.232+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:36:07.258+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:36:07.258+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:36:07.261+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:36:07.261+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:36:07.266+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T13:36:50.309+0200] {processor.py:161} INFO - Started process (PID=90321) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:36:50.310+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:36:50.310+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:36:50.310+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:36:50.319+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:36:50.345+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:36:50.345+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:36:50.348+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:36:50.348+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:36:50.353+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T13:38:13.100+0200] {processor.py:161} INFO - Started process (PID=90438) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:38:13.101+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:38:13.101+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:38:13.101+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:38:13.109+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:38:13.135+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:38:13.135+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:38:13.137+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:38:13.137+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:38:13.142+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.043 seconds
+[2026-04-29T13:38:56.337+0200] {processor.py:161} INFO - Started process (PID=90501) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:38:56.338+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:38:56.338+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:38:56.338+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:38:56.354+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:38:56.384+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:38:56.384+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:38:56.388+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:38:56.388+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:38:56.393+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.059 seconds
+[2026-04-29T13:39:40.034+0200] {processor.py:161} INFO - Started process (PID=90567) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:39:40.035+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:39:40.035+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:39:40.035+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:39:40.043+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:39:40.069+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:39:40.069+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:39:40.072+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:39:40.072+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:39:40.077+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:41:03.068+0200] {processor.py:161} INFO - Started process (PID=90667) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:41:03.069+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:41:03.069+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:41:03.069+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:41:03.082+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:41:03.109+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:41:03.109+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:41:03.112+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:41:03.112+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:41:03.117+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2026-04-29T13:42:28.665+0200] {processor.py:161} INFO - Started process (PID=90771) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:42:28.666+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:42:28.666+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:42:28.666+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:42:28.674+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:42:28.700+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:42:28.700+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:42:28.703+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:42:28.703+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:42:28.708+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:43:11.296+0200] {processor.py:161} INFO - Started process (PID=90937) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:43:11.297+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:43:11.298+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:43:11.298+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:43:11.306+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:43:11.333+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:43:11.333+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:43:11.336+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:43:11.336+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:43:11.341+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.046 seconds
+[2026-04-29T13:44:36.025+0200] {processor.py:161} INFO - Started process (PID=91078) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:44:36.026+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:44:36.026+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:44:36.026+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:44:36.035+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:44:36.061+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:44:36.061+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:44:36.065+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:44:36.064+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:44:36.069+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
+[2026-04-29T13:45:59.196+0200] {processor.py:161} INFO - Started process (PID=91174) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:45:59.197+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:45:59.197+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:45:59.197+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:45:59.206+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:45:59.234+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:45:59.234+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:45:59.238+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:45:59.238+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:45:59.243+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2026-04-29T13:46:43.283+0200] {processor.py:161} INFO - Started process (PID=91239) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:46:43.284+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:46:43.284+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:46:43.284+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:46:43.292+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:46:43.317+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:46:43.317+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:46:43.320+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:46:43.320+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:46:43.325+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.043 seconds
+[2026-04-29T13:48:05.684+0200] {processor.py:161} INFO - Started process (PID=91350) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:48:05.684+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:48:05.685+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:48:05.685+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:48:05.697+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:48:05.724+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:48:05.723+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:48:05.727+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:48:05.727+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:48:05.732+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2026-04-29T13:49:29.157+0200] {processor.py:161} INFO - Started process (PID=91459) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:49:29.157+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:49:29.157+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:49:29.157+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:49:29.167+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:49:29.193+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:49:29.193+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:49:29.196+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:49:29.196+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:49:29.203+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2026-04-29T13:50:49.669+0200] {processor.py:161} INFO - Started process (PID=91541) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:50:49.669+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:50:49.669+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:50:49.669+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:50:49.677+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:50:49.702+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:50:49.702+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:50:49.705+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:50:49.705+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:50:49.710+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.042 seconds
+[2026-04-29T13:51:32.063+0200] {processor.py:161} INFO - Started process (PID=91576) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:51:32.064+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:51:32.064+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:51:32.064+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:51:32.072+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:51:32.098+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:51:32.098+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:51:32.101+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:51:32.101+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:51:32.106+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:52:15.374+0200] {processor.py:161} INFO - Started process (PID=91612) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:52:15.375+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:52:15.375+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:52:15.375+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:52:15.383+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:52:15.408+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:52:15.408+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:52:15.411+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:52:15.410+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:52:15.415+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.043 seconds
+[2026-04-29T13:52:59.735+0200] {processor.py:161} INFO - Started process (PID=91666) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:52:59.736+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:52:59.736+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:52:59.736+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:52:59.744+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:52:59.769+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:52:59.769+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:52:59.772+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:52:59.772+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:52:59.777+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.042 seconds
+[2026-04-29T13:54:20.799+0200] {processor.py:161} INFO - Started process (PID=91743) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:54:20.800+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:54:20.800+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:54:20.800+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:54:20.808+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:54:20.833+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:54:20.833+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:54:20.836+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:54:20.836+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:54:20.840+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.042 seconds
+[2026-04-29T13:55:03.502+0200] {processor.py:161} INFO - Started process (PID=91807) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:55:03.503+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:55:03.503+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:55:03.503+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:55:03.511+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:55:03.537+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:55:03.537+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:55:03.540+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:55:03.540+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:55:03.545+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.044 seconds
+[2026-04-29T13:55:47.743+0200] {processor.py:161} INFO - Started process (PID=91889) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:55:47.743+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:55:47.744+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:55:47.743+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:55:47.752+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:55:47.781+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:55:47.781+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:55:47.784+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:55:47.784+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:55:47.789+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2026-04-29T13:56:30.981+0200] {processor.py:161} INFO - Started process (PID=91968) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:56:30.981+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:56:30.981+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:56:30.981+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:56:30.991+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:56:31.020+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:56:31.020+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:56:31.023+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:56:31.023+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:56:31.028+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2026-04-29T13:57:15.344+0200] {processor.py:161} INFO - Started process (PID=92050) to work on /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:57:15.345+0200] {processor.py:830} INFO - Processing file /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T13:57:15.345+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:57:15.345+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:57:15.353+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T13:57:15.380+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:57:15.380+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-29T13:57:15.383+0200] {logging_mixin.py:188} INFO - [2026-04-29T13:57:15.383+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T13:57:15.388+0200] {processor.py:183} INFO - Processing /Users/pablofrancoherrero/prueba_tecnica/venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.045 seconds
